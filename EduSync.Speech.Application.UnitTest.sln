@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29806.167
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EduSync.Speech.Application.UnitTest", "EduSync.Speech.Application.UnitTest\EduSync.Speech.Application.UnitTest.csproj", "{3E901CC4-0D65-44C0-A05D-46D8C6C1A306}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EduSync.Speech.Domain", "EduSync.Speech.Domain\EduSync.Speech.Domain.csproj", "{C1232BE8-BFE4-4699-912D-3BFCEB966867}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EduSync.Speech.Domain.UnitTest", "EduSync.Speech.Domain.UnitTest\EduSync.Speech.Domain.UnitTest.csproj", "{5B42975B-68E9-4370-B260-6289773F6065}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EduSync.Speech.Application", "EduSync.Speech.Application\EduSync.Speech.Application.csproj", "{E03157D5-D117-46AC-994B-F3BB98CEB5A4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EduSync.Speech.Infrastructure", "EduSync.Speech.Infrastructure\EduSync.Speech.Infrastructure.csproj", "{008277EE-FBB3-401B-8D00-FF24D8CE7AB2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EduSync.Speech.Infrastructure.UnitTest", "EduSync.Speech.Infrastructure.UnitTest\EduSync.Speech.Infrastructure.UnitTest.csproj", "{F3460778-6D2D-4DA5-9E05-702841AE1EAF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3E901CC4-0D65-44C0-A05D-46D8C6C1A306}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3E901CC4-0D65-44C0-A05D-46D8C6C1A306}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3E901CC4-0D65-44C0-A05D-46D8C6C1A306}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3E901CC4-0D65-44C0-A05D-46D8C6C1A306}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C1232BE8-BFE4-4699-912D-3BFCEB966867}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C1232BE8-BFE4-4699-912D-3BFCEB966867}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C1232BE8-BFE4-4699-912D-3BFCEB966867}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C1232BE8-BFE4-4699-912D-3BFCEB966867}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5B42975B-68E9-4370-B260-6289773F6065}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5B42975B-68E9-4370-B260-6289773F6065}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5B42975B-68E9-4370-B260-6289773F6065}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5B42975B-68E9-4370-B260-6289773F6065}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E03157D5-D117-46AC-994B-F3BB98CEB5A4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E03157D5-D117-46AC-994B-F3BB98CEB5A4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E03157D5-D117-46AC-994B-F3BB98CEB5A4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E03157D5-D117-46AC-994B-F3BB98CEB5A4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{008277EE-FBB3-401B-8D00-FF24D8CE7AB2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{008277EE-FBB3-401B-8D00-FF24D8CE7AB2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{008277EE-FBB3-401B-8D00-FF24D8CE7AB2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{008277EE-FBB3-401B-8D00-FF24D8CE7AB2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F3460778-6D2D-4DA5-9E05-702841AE1EAF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F3460778-6D2D-4DA5-9E05-702841AE1EAF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F3460778-6D2D-4DA5-9E05-702841AE1EAF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F3460778-6D2D-4DA5-9E05-702841AE1EAF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C44EE852-6AD1-4E2C-97EB-0972D5BF0889}
+	EndGlobalSection
+EndGlobal
