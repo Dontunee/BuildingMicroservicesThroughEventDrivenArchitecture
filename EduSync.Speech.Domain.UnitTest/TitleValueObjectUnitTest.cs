@@ -3,11 +3,12 @@ using Xunit;
 
 namespace EduSync.Speech.Domain.UnitTest
 {
-    public class UnitTest1
+    public class TitleValueObjectUnitTest
     {
         [Fact]
-        public void Test1()
+        public void EqualityIsTrueWhenIbjectsAreSameValuesTest()
         {
+
 
         }
     }
